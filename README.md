@@ -1,8 +1,10 @@
 # aws-pdf-textract-pipeline
 
-:mag: Stack for deploying a Docker container using AWS Elastic Container Service and AWS Fargate. Built with AWS CDK + TypeScript.
+:mag: Experiment for deploying a Docker container using AWS Elastic Container Service and AWS Fargate. Built with AWS CDK + TypeScript.
 
 **Getting Started**
+
+NOTE - this is just an experimental repository and should not be used as a reference.
 
 Run the following commands to install dependencies, build the CDK stack, and deploy the CDK Stack to AWS.
 
