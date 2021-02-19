@@ -1,4 +1,4 @@
-# aws-pdf-textract-pipeline
+# aws-cdk-ecs-fargate
 
 :mag: Experiment for deploying a Docker container using AWS Elastic Container Service and AWS Fargate. Built with AWS CDK + TypeScript.
 
